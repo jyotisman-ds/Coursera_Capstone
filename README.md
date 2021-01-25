@@ -6,7 +6,7 @@ Capstone project - Exploring restaurants in Los Angeles and predicting optimal l
 
 ## Technical Details
 
-The grave details of the project are all mentioned in the [notebook](https://github.com/jyotisman-ds/Coursera_Capstone/blob/main/Exploring LA Restaurants.ipynb)
+The grave details of the project are all mentioned in the [notebook](https://github.com/jyotisman-ds/Coursera_Capstone/tree/master/Exploring LA Restaurants.ipynb)
 
 - Location data was obtained from  [here](https://usc.data.socrata.com/dataset/Los-Angeles-Neighborhood-Map/r8qd-yxsr)
 
@@ -22,7 +22,7 @@ The grave details of the project are all mentioned in the [notebook](https://git
 
 ## Use cases
 
-I prepared a small [presentation](https://github.com/jyotisman-ds/Coursera_Capstone/blob/main/presentations/Final_project_presentation.pdf) to pitch this idea in a commercial setting with an example as well. Do check it out!
+I prepared a small [presentation](https://github.com/jyotisman-ds/Coursera_Capstone/tree/master/presentations/Final_project_presentation.pdf) to pitch this idea in a commercial setting with an example as well. Do check it out!
 
 # Credits
 A huge shoutout to the Coursera community for hosting the IBM professional certificate [course](https://www.coursera.org/professional-certificates/ibm-data-science) and to all the instructors of this course.
