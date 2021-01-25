@@ -6,7 +6,7 @@ Capstone project - Exploring restaurants in Los Angeles and predicting optimal l
 
 ## Technical Details
 
-The grave details of the project are all mentioned in the [notebook](https://github.com/jyotisman-ds/Coursera_Capstone/tree/master/Exploring LA Restaurants.ipynb)
+The grave details of the project are all mentioned in the [notebook](https://github.com/jyotisman-ds/Coursera_Capstone/blob/master/Exploring%20LA%20restaurants.ipynb)
 
 - Location data was obtained from  [here](https://usc.data.socrata.com/dataset/Los-Angeles-Neighborhood-Map/r8qd-yxsr)
 
