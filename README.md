@@ -16,4 +16,11 @@ The grave details of the project are all mentioned in the [notebook](https://git
 
 - Second idea is to explore the kind of restaurants. Here, one can again use clustering but now based on the frequency of occurrence of each restaurant in a neighborhood. Once we find the relevant cluster here, we can then look for its intersection with the clusters found above to fine tune the relevant neighborhood where one wants to open his/her restaurant. A snippet of such a final cluster with all the information included is shown below - 
 
-![Cluster1](/cluster_1.png)
+![cluster1](/cluster_1.png)
+
+- Figure shows the Cluster labelled as '1'. It plots the number of restaurants in each category from the most common restaurant venues list. On top of that, it also shows how many of them are in low, medium and high density neighborhoods. 
+
+
+# Credits
+A huge shoutout to the Coursera community for hosting the IBM professional certificate [course](https://www.coursera.org/professional-certificates/ibm-data-science) and to all the instructors of this course.
+
